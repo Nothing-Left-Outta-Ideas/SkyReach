@@ -1,2 +1,2 @@
-# Hello there, We are SkyReach 
-Nothing left-outta-ideas
+# SkyReach 
+Nothing Left Outta Ideas
