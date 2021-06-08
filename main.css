@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+.outer-container {
+  top:700px;
+  max-width: 600px;
+  margin: auto;
+  width: 100%;
+  padding: 20px 0px;
+  position: relative;
+}
+.image-container {
+  padding-bottom: 100%;
+  background: black;
+  position: relative;
+  overflow: hidden;
+  z-index: 2;
+  background-size: cover;
+  background-position: center;
+}
+.section-title {
+  margin: 0;
+  font-size: 64px;
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: -30%;
+  transform: translateY(-50%);
+  z-index: 1;
+  white-space: nowrap;
+}
+.section-title.on-dark {
+  color: white;
+}
+.section-title span {
+  position: relative;
+  display: block;
+}
